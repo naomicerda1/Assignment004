@@ -16,7 +16,11 @@ h1, h2, h3 {
 }
 
 aside {
-	
+	position: fixed;
+	left: 800px;
+	top: 15%;
+	float: right;
+	width: 20%;
 }
 
 footer {
@@ -32,6 +36,10 @@ img {
 }
 
 main {
+	position: fixed;
+	left: 200px;
+	top: 15%;
+	width: 40%;
 
 }
 
@@ -40,9 +48,13 @@ nav {
 }
 
 #copyright {
-	font-size: 80%;
+	
 }
 
 #main-container {
-
+	position: fixed;
+	left: 50px;
+	top: 15%;
+	float: left;
+	width: 20%;
 }
